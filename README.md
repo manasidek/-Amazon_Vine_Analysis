@@ -82,4 +82,7 @@
 
 ## Summary
 
+- There are only 2 paid reviews in this dataset and both have fewer than 20 votes. So, we do not have enough paid reviews in this dataset to arrive at any conclusions on the positivity bias for reviews in the Vine program.
+
+- Another analysis that could be done using this dataset would be to compare a summary of reviews across verified and non-verified purchases.
 
