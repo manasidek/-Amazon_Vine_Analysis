@@ -24,7 +24,7 @@
 
 ### Phase 1
 
-- Using Pyspark, load the data file in to a data frame. The dataframe is shown below:
+- Using Pyspark, load the data file in to a dataframe. The dataframe is shown below:
 
 ![DataFrame](https://github.com/manasidek/Amazon_Vine_Analysis/blob/main/Images/dataframe.png)
 
@@ -59,7 +59,7 @@
 
 ![total_votes_20](https://github.com/manasidek/Amazon_Vine_Analysis/blob/main/Images/tital_votes_greater_20.png)
 
-- Filter the above dataframe for votes greater than 50%. the dataframe is as below:
+- Filter the above dataframe for votes greater than 50%. The dataframe is as below:
 
 ![more_than_50%](https://github.com/manasidek/Amazon_Vine_Analysis/blob/main/Images/more_than_50%25.png)
 
@@ -69,13 +69,13 @@
 
 - Count the number of unpaid reviews in the Vine Program.
 
-![reviews_unpaid](https://github.com/manasidek/Amazon_Vine_Analysis/blob/main/Images/no_reviews_paid.png)
+![reviews_unpaid](https://github.com/manasidek/Amazon_Vine_Analysis/blob/main/Images/unpaid_reviews.png)
 
 - Filter the number of 5 star reviews.
 
 ![5star_reviews](https://github.com/manasidek/Amazon_Vine_Analysis/blob/main/Images/5star_reviews.png)
 
-- Calculate the percentage of 5star reviews.
+- Calculate the percentage of 5 star reviews.
 
 ![percent_unpaid](https://github.com/manasidek/Amazon_Vine_Analysis/blob/main/Images/percent_unpaid.png)
 
